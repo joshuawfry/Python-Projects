@@ -1,0 +1,2 @@
+USERNAME = "enterUsernameHere"
+PASSWORD = "enterPasswordHere"
